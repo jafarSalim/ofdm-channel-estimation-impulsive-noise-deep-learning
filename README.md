@@ -7,7 +7,7 @@
 ![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-models-EE4C2C?logo=pytorch&logoColor=white)
 ![OFDM](https://img.shields.io/badge/System-OFDM%2016--QAM-0b2545)
-![Figures](https://img.shields.io/badge/Figures-25-2ea44f)
+![Figures](https://img.shields.io/badge/Figures-22-2ea44f)
 
 ![Overview](figures/overview.png)
 
@@ -68,15 +68,9 @@ What this shows:
 |---|---|
 | ![PDF](figures/fig02_noise_pdf_comparison.png) | ![Time](figures/fig03_noise_time_domain.png) |
 
-| System blocks | Pilot pattern |
-|---|---|
-| ![System](figures/fig01_system_block_diagram.png) | ![Pilots](figures/fig06_pilot_pattern.png) |
+![System](figures/fig01_system_block_diagram.png)
 
-### Training and models
-
-| Training curves | Learning rate |
-|---|---|
-| ![Training](figures/fig10_training_curves.png) | ![LR](figures/fig11_learning_rate.png) |
+### Models
 
 | DNN | CNN |
 |---|---|
